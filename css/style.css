@@ -15,3 +15,14 @@
 
 /* ******************************** */
 
+/* HTML le da a todas las etiquetas hijo todas estas propiedades */
+html{
+    /* color del texto */
+    color: #fff;
+    /* tipo de tipografía */
+    font-family: sans-serif;
+    /* texto negrita */
+    font-weight: bold;
+    /* tamaño del texto */
+    font-size: 20px;
+}

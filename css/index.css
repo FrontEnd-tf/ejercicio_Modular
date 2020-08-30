@@ -2,3 +2,27 @@
 /* *** Estilos SOLO para index.html *** */
 /* *********************************** */
 
+header,nav,main,footer{
+    /* fondo rojo */
+    background-color:red;
+    /* central el texto */
+    text-align: center;
+    /* altura con padding */
+    padding: 10px 0 10px 0;
+}
+header,footer{
+    /* otra altura */
+    padding: 20px 0 20px 0;
+}
+nav,main{
+    /* separar todas las estructuras */
+    margin: 5px 0 5px 0;
+}
+main{
+    /* altura propia */
+    padding: 100px 50px 100px 50px;
+}
+section{
+    background-color: brown;
+    padding: 50px 0 50px;
+}
